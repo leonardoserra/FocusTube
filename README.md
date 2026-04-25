@@ -27,22 +27,22 @@ A simple Chrome extension that removes YouTube distractions and leaves only the 
 4. Click "Hide All Distractions" – only the video remains
 5. Click "Restore" – everything comes back
 
-## Tree
-FocusTube
-├── app
-│   ├── app.js
-│   ├── icons
-│   │   ├── yt_focus_icon_lg.png
-│   │   ├── yt_focus_icon.png
-│   │   └── yt_focus_icon_sm.png
-│   ├── manifest.json
-│   ├── popup.html
-│   └── popup.js
-├── FocusTubeScrn.png
-├── FocusTubeScrn_rszd.png
-└── LICENSE
-
-
+## Tree  
+FocusTube  
+├── app  
+│   ├── app.js  
+│   ├── icons  
+│   │   ├── yt_focus_icon_lg.png  
+│   │   ├── yt_focus_icon.png  
+│   │   └── yt_focus_icon_sm.png  
+│   ├── manifest.json  
+│   ├── popup.html  
+│   └── popup.js  
+├── FocusTubeScrn.png  
+├── FocusTubeScrn_rszd.png  
+└── LICENSE  
+  
+  
 ## Technical details
 
 - Built with Manifest V3
