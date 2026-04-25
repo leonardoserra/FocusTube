@@ -12,20 +12,16 @@ A simple Chrome extension that removes YouTube distractions and leaves only the 
 
 ### From source (Developer mode)
 
-1. Download or clone this repository (soon available in the chrome store)
-2. Open Chrome and go to chrome://extensions/
-3. Enable Developer mode (toggle in top right)
-4. Click Load unpacked
-5. Select the folder containing the extension files
-6. The extension icon should appear in your toolbar
+1. [Install](https://chromewebstore.google.com/detail/focustube/kgocihicnnfpnghdglhgnnmpoiiinjfl?authuser=2&hl=it) 
+2. The extension icon should appear in your extension list
+3. Pin the extension in you toolbar.
 
 ## How to use
 
 1. Go to any YouTube video page
-2. Pin the extension.
-3. Click the FocusTube icon in your browser toolbar
-4. Click "Hide All Distractions" – only the video remains
-5. Click "Restore" – everything comes back
+2. Click the FocusTube icon in your browser toolbar
+3. Click "Hide All Distractions" – only the video remains
+4. Click "Restore" – everything comes back
 
 ## Tree  
 ```
