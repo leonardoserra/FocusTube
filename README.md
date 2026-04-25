@@ -28,6 +28,7 @@ A simple Chrome extension that removes YouTube distractions and leaves only the 
 5. Click "Restore" – everything comes back
 
 ## Tree  
+```
 FocusTube  
 ├── app  
 │   ├── app.js  
@@ -41,7 +42,7 @@ FocusTube
 ├── FocusTubeScrn.png  
 ├── FocusTubeScrn_rszd.png  
 └── LICENSE  
-  
+```
   
 ## Technical details
 
