@@ -1,0 +1,4 @@
+*.zip
+.zed
+.vscode
+.DS_STORE
