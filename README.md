@@ -10,9 +10,9 @@ A simple Chrome extension that removes YouTube distractions and leaves only the 
 
 ## Installation
 
-### From source (Developer mode)
+### From source (Developer mode)  
 
-1. [Install](https://chromewebstore.google.com/detail/focustube/kgocihicnnfpnghdglhgnnmpoiiinjfl?authuser=2&hl=it) 
+1. [Install]([https://chromewebstore.google.com/detail/focustube/kgocihicnnfpnghdglhgnnmpoiiinjfl?authuser=2&hl=it](https://chromewebstore.google.com/detail/focustube/kgocihicnnfpnghdglhgnnmpoiiinjfl?utm_source=item-share-cb)) 
 2. The extension icon should appear in your extension list
 3. Pin the extension in you toolbar.
 
